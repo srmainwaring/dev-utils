@@ -17,7 +17,7 @@
  */
 
 #pragma once
-
+#if 0
 #include <functional>
 #include <string>
 
@@ -117,5 +117,5 @@ protected:
 } /* namespace event */
 } /* namespace utils */
 } /* namespace eprosima */
-
+#endif
 
